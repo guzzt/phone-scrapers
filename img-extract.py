@@ -2,8 +2,8 @@ from __future__ import unicode_literals
 import argparse
 import pandas
 import sys
-
 from scrappers.motorola import MotorolaDownloader
+
 if __name__ == '__main__':
     if len(sys.argv) != 2:
         print(f"Uso: {sys.argv[0]} <arquivo.xlsm>")
@@ -16,4 +16,7 @@ if __name__ == '__main__':
     df = df.iloc[:,:3]
     print(df)
     m = MotorolaDownloader()
-    m.search('edge')
+    m.search('moto g9 plus')
+    hrefs = m.getProductsLinks()
+    for href in hrefs:
+        m.getProductImages(href)

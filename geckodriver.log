@@ -1,0 +1,1065 @@
+1632252373063	geckodriver	INFO	Listening on 127.0.0.1:54855
+1632252377667	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Gilson\\AppData\\Local\\Temp\\rust_mozprofile1Lq3Nj"
+1632252385921	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Gilson\\AppData\\Local\\Temp\\rust_mozprofile1Lq3Nj\\search.json.mozlz4", (void 0)))
+1632252412932	Marionette	INFO	Listening on port 54863
+1632252413999	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P52XLW7, line 371: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P52XLW7, line 371: unreachable code after return statement
+JavaScript error: https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-core.prod.js, line 1: Error: The open request was blocked and timed out
+JavaScript error: https://script.crazyegg.com/pages/scripts/0047/6058.js, line 1: Error: CE: multiple userscripts installed
+1632252495006	Marionette	INFO	Stopped listening on port 54863
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1632252598611	geckodriver	INFO	Listening on 127.0.0.1:52412
+1632252601596	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Gilson\\AppData\\Local\\Temp\\rust_mozprofileElLjTX"
+1632252603148	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Gilson\\AppData\\Local\\Temp\\rust_mozprofileElLjTX\\search.json.mozlz4", (void 0)))
+1632252609687	Marionette	INFO	Listening on port 52420
+1632252609839	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P52XLW7, line 371: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P52XLW7, line 371: unreachable code after return statement
+JavaScript error: https://script.crazyegg.com/pages/scripts/0047/6058.js, line 1: Error: CE: multiple userscripts installed
+JavaScript error: https://www.motorola.com.br/edge?_q=edge&map=ft line 421 > injectedScript, line 1: TypeError: google_tag_manager['GTM-P52XLW7'].macro(...) is undefined
+JavaScript error: https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-core.prod.js, line 1: Error: The open request was blocked and timed out
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1632253315785	Marionette	INFO	Stopped listening on port 52420
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+\\search.json.mozlz4", (void 0)))
+1632252681111	Marionette	INFO	Listening on port 64436
+1632252681251	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P52XLW7, line 371: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P52XLW7, line 371: unreachable code after return statement
+JavaScript error: https://script.crazyegg.com/pages/scripts/0047/6058.js, line 1: Error: CE: multiple userscripts installed
+JavaScript error: https://www.motorola.com.br/edge?_q=edge&map=ft line 421 > injectedScript, line 1: TypeError: google_tag_manager['GTM-P52XLW7'].macro(...) is undefined
+1632252717523	Marionette	INFO	Stopped listening on port 64436
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Parent 1856, IPC I/O Parent] WARNING: file /builds/worker/c1632252721017	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Gilson\\AppData\\Local\\Temp\\rust_mozprofile93H7FW"
+1632252723572	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Gilson\\AppData\\Local\\Temp\\rust_mozprofile93H7FW\\search.json.mozlz4", (void 0)))
+1632252735869	Marionette	INFO	Listening on port 62311
+1632252736388	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P52XLW7, line 371: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P52XLW7, line 371: unreachable code after return statement
+JavaScript error: https://script.crazyegg.com/pages/scripts/0047/6058.js, line 1: Error: CE: multiple userscripts installed
+JavaScript error: https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-core.prod.js, line 1: Error: The open request was blocked and timed out
+1632252795244	Marionette	INFO	Stopped listening on port 62311
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+ozprofilevwmUfR"
+1632252799589	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Gilson\\AppData\\Local\\Temp\\rust_mozprofilevwmUfR\\search.json.mozlz4", (void 0)))
+1632252810843	Marionette	INFO	Listening on port 60973
+1632252811280	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P52XLW7, line 371: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P52XLW7, line 371: unreachable code after return statement
+JavaScript error: https://script.crazyegg.com/pages/scripts/0047/6058.js, line 1: Error: CE: multiple userscripts installed
+JavaScript error: https://www.motorola.com.br/edge?_q=edge&map=ft line 421 > injectedScript, line 1: TypeError: google_tag_manager['GTM-P52XLW7'].macro(...) is undefined
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1632253314514	Marionette	INFO	Stopped listening on port 60973
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1632306568645	geckodriver	INFO	Listening on 127.0.0.1:54684
+1632306571233	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Gilson\\AppData\\Local\\Temp\\rust_mozprofileQlWSL1"
+1632306578317	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Gilson\\AppData\\Local\\Temp\\rust_mozprofileQlWSL1\\search.json.mozlz4", (void 0)))
+1632306613838	Marionette	INFO	Listening on port 54693
+1632306615778	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P52XLW7, line 371: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P52XLW7, line 371: unreachable code after return statement
+JavaScript error: https://script.crazyegg.com/pages/scripts/0047/6058.js, line 1: Error: CE: multiple userscripts installed
+JavaScript error: https://www.motorola.com.br/edge?_q=edge&map=ft line 421 > injectedScript, line 1: TypeError: google_tag_manager['GTM-P52XLW7'].macro(...) is undefined
+JavaScript error: https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-core.prod.js, line 1: Error: The open request was blocked and timed out
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://brmotorolanew.vtexassets.com/_v/public/assets/v1/bundle/css/asset.min.css?v=3&files=theme,brmotorolanew.store@1.0.5-20$style.common,brmotorolanew.store@1.0.5-20$style.small,brmotorolanew.store@1.0.5-20$style.notsmall,brmotorolanew.store@1.0.5-20$style.large,brmotorolanew.store@1.0.5-20$style.xlarge&files=fonts,989db2448f309bfdd99b513f37c84b8f5794d2b5&files=npm,animate.css@3.7.0/animate.min.css&files=react~vtex.render-runtime@8.131.1,common&files=react~brmotorolanew.store@1.0.5-20,14,Header,SearchSeo,ShelfCustomPrice,ShelfKSP&files=react~vtex.styleguide@9.145.0,0,1,Spinner,Tooltip&files=react~vtex.store-components@3.152.0,Container,4,SearchBar,DiscountBadge&files=react~vtex.flex-layout@0.18.0,0&files=react~vtex.login@2.45.15,1&files=react~vtex.admin-pages@4.44.7,HighlightOverlay&files=react~vtex.rich-text@0.14.0,index&files=react~vtex.search@2.8.3,Autocomplete&files=react~vtex.product-summary@2.76.0,ProductSummaryImage&files=overrides,vtex.product-list@0.31.0$overrides,vtex.minicart@2.61.1$overrides,brmotorolanew.store@1.0.5-20$overrides,brmotorolanew.store@1.0.5-20$fonts&workspace=master without a browsingContextID set
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+console.error: "Tried to send a 'target-destroyed-form' even1632306853435	mozrunner::runner	INFO	Running1632306855936	Marionette	INFO	Stopped listening on port 54693
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIconsole.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Gilson\\AppData\\Local\\Temp\\rust_mozprofilehtaz3d\\search.json.mozlz4", (void 0)))
+1632306861432	Marionette	INFO	Listening on port 64484
+1632306861742	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P52XLW7, line 371: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P52XLW7, line 371: unreachable code after return statement
+JavaScript error: https://script.crazyegg.com/pages/scripts/0047/6058.js, line 1: Error: CE: multiple userscripts installed
+JavaScript error: https://www.motorola.com.br/edge?_q=edge&map=ft line 421 > injectedScript, line 1: TypeError: google_tag_manager['GTM-P52XLW7'].macro(...) is undefined
+JavaScript error: https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-core.prod.js, line 1: Error: The open request was blocked and timed out
+1632306935020	Marionette	INFO	Stopped listening on port 64484
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error:1632306935908	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Gilson\\AppData\\Local\\Temp\\rust_mozprofile1YcMlJ\\search.json.mozlz4", (void 0)))
+1632306943176	Marionette	INFO	Listening on port 64714
+1632306943712	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P52XLW7, line 371: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P52XLW7, line 371: unreachable code after return statement
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: https://script.crazyegg.com/pages/scripts/0047/6058.js, line 1: Error: CE: multiple userscripts installed
+JavaScript error: https://www.motorola.com.br/edge?_q=edge&map=ft line 421 > injectedScript, line 1: TypeError: google_tag_manager['GTM-P52XLW7'].macro(...) is undefined
+1632307254859	Marionette	INFO	Stopped listening on port 64714
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+ozprofileIkubXF"
+1632307088049	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Gilson\\AppData\\Local\\Temp\\rust_mozprofileIkubXF\\search.json.mozlz4", (void 0)))
+1632307095039	Marionette	INFO	Listening on port 54176
+1632307095141	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P52XLW7, line 371: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P52XLW7, line 371: unreachable code after return statement
+JavaScript error: https://script.crazyegg.com/pages/scripts/0047/6058.js, line 1: Error: CE: multiple userscripts installed
+JavaScript error: https://www.motorola.com.br/edge?_q=edge&map=ft line 421 > injectedScript, line 1: TypeError: google_tag_manager['GTM-P52XLW7'].macro(...) is undefined
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://brmotorolanew.vtexassets.com/_v/public/assets/v1/bundle/css/asset.min.css?v=3&files=theme,brmotorolanew.store@1.0.5-20$style.common,brmotorolanew.store@1.0.5-20$style.small,brmotorolanew.store@1.0.5-20$style.notsmall,brmotorolanew.store@1.0.5-20$style.large,brmotorolanew.store@1.0.5-20$style.xlarge&files=fonts,989db2448f309bfdd99b513f37c84b8f5794d2b5&files=npm,animate.css@3.7.0/animate.min.css&files=react~vtex.render-runtime@8.131.1,common&files=react~brmotorolanew.store@1.0.5-20,14,Header,SearchSeo,ShelfCustomPrice,ShelfKSP&files=react~vtex.styleguide@9.145.0,0,1,Spinner,Tooltip&files=react~vtex.store-components@3.152.0,Container,4,SearchBar,DiscountBadge&files=react~vtex.flex-layout@0.18.0,0&files=react~vtex.login@2.45.15,1&files=react~vtex.admin-pages@4.44.7,HighlightOverlay&files=react~vtex.rich-text@0.14.0,index&files=react~vtex.search@2.8.3,Autocomplete&files=react~vtex.product-summary@2.76.0,ProductSummaryImage&files=overrides,vtex.product-list@0.31.0$overrides,vtex.minicart@2.61.1$overrides,brmotorolanew.store@1.0.5-20$overrides,brmotorolanew.store@1.0.5-20$fonts&workspace=master without a browsingContextID set
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1632307252216	Marionette	INFO	Stopped listening on port 54176
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+ozprofilevZ1uIM"
+1632307255038	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Gilson\\AppData\\Local\\Temp\\rust_mozprofilevZ1uIM\\search.json.mozlz4", (void 0)))
+1632307262279	Marionette	INFO	Listening on port 54440
+1632307262536	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P52XLW7, line 371: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P52XLW7, line 371: unreachable code after return statement
+JavaScript error: https://script.crazyegg.com/pages/scripts/0047/6058.js, line 1: Error: CE: multiple userscripts installed
+JavaScript error: https://www.motorola.com.br/edge?_q=edge&map=ft line 421 > injectedScript, line 1: TypeError: google_tag_manager['GTM-P52XLW7'].macro(...) is undefined
+JavaScript error: https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-core.prod.js, line 1: Error: The open request was blocked and timed out
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://brmotorolanew.vtexassets.com/_v/public/assets/v1/bundle/css/asset.min.css?v=3&files=theme,brmotorolanew.store@1.0.5-20$style.common,brmotorolanew.store@1.0.5-20$style.small,brmotorolanew.store@1.0.5-20$style.notsmall,brmotorolanew.store@1.0.5-20$style.large,brmotorolanew.store@1.0.5-20$style.xlarge&files=fonts,989db2448f309bfdd99b513f37c84b8f5794d2b5&files=npm,animate.css@3.7.0/animate.min.css&files=react~vtex.render-runtime@8.131.1,common&files=react~brmotorolanew.store@1.0.5-20,14,Header,SearchSeo,ShelfCustomPrice,ShelfKSP&files=react~vtex.styleguide@9.145.0,0,1,Spinner,Tooltip&files=react~vtex.store-components@3.152.0,Container,4,SearchBar,DiscountBadge&files=react~vtex.flex-layout@0.18.0,0&files=react~vtex.login@2.45.15,1&files=react~vtex.admin-pages@4.44.7,HighlightOverlay&files=react~vtex.rich-text@0.14.0,index&files=react~vtex.search@2.8.3,Autocomplete&files=react~vtex.product-summary@2.76.0,ProductSummaryImage&files=overrides,vtex.product-list@0.31.0$overrides,vtex.minicart@2.61.1$overrides,brmotorolanew.store@1.0.5-20$overrides,brmotorolanew.store@1.0.5-20$fonts&workspace=master without a browsingContextID set
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+console.error: "Tried to send a 'target-destroyed-form' even1632307465561	mozrunner::runner	INFO	Running1632307472828	Marionette	INFO	Stopped listening on port 54440
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+o settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Gilson\\AppData\\Local\\Temp\\rust_mozprofilezgCyck\\search.json.mozlz4", (void 0)))
+1632307473062	Marionette	INFO	Listening on port 51876
+1632307473630	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P52XLW7, line 371: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P52XLW7, line 371: unreachable code after return statement
+JavaScript error: https://script.crazyegg.com/pages/scripts/0047/6058.js, line 1: Error: CE: multiple userscripts installed
+JavaScript error: https://www.motorola.com.br/edge?_q=edge&map=ft line 421 > injectedScript, line 1: TypeError: google_tag_manager['GTM-P52XLW7'].macro(...) is undefined
+JavaScript error: https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-core.prod.js, line 1: Error: The open request was blocked and timed out
+1632307604682	Marionette	INFO	Stopped listening on port 51871632307604842	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Gilson\\AppData\\Local\\Temp\\rust_mozprofileh8iUej"
+1632307606198	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Gilson\\AppData\\Local\\Temp\\rust_mozprofileh8iUej\\search.json.mozlz4", (void 0)))
+1632307614354	Marionette	INFO	Listening on port 52090
+1632307614762	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P52XLW7, line 371: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P52XLW7, line 371: unreachable code after return statement
+JavaScript error: https://script.crazyegg.com/pages/scripts/0047/6058.js, line 1: Error: CE: multiple userscripts installed
+JavaScript error: https://www.motorola.com.br/edge?_q=edge&map=ft line 421 > injectedScript, line 1: TypeError: google_tag_manager['GTM-P52XLW7'].macro(...) is undefined
+1632307817454	Marionette	INFO	Stopped listening on port 52090
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Parent 5764, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1632307821862	geckodriver	INFO	Listening on 127.0.0.1:55749
+1632307824879	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Gilson\\AppData\\Local\\Temp\\rust_mozprofileEErrki"
+1632307826077	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Gilson\\AppData\\Local\\Temp\\rust_mozprofileEErrki\\search.json.mozlz4", (void 0)))
+1632307831907	Marionette	INFO	Listening on port 55757
+1632307832091	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P52XLW7, line 371: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P52XLW7, line 371: unreachable code after return statement
+JavaScript error: https://script.crazyegg.com/pages/scripts/0047/6058.js, line 1: Error: CE: multiple userscripts installed
+JavaScript error: https://www.motorola.com.br/edge?_q=edge&map=ft line 421 > injectedScript, line 1: TypeError: google_tag_manager['GTM-P52XLW7'].macro(...) is undefined
+1632307847877	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:238:19
+TimedPromise@chrome://remote/content/marionette/sync.js:223:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1632307849899	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:238:19
+TimedPromise@chrome://remote/content/marionette/sync.js:223:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: https://script.crazyegg.com/pages/scripts/0047/6058.js, line 1: Error: CE: multiple userscripts installed
+JavaScript error: https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-core.prod.js, line 1: Error: The open request was blocked and timed out
+1632308109718	Marionette	INFO	Stopped listening on port 55757
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1632308120288	geckodriver	INFO	Listening on 127.0.0.1:56008
+1632308123327	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Gilson\\AppData\\Local\\Temp\\rust_mozprofileW2IJEO"
+1632308123924	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Gilson\\AppData\\Local\\Temp\\rust_mozprofileW2IJEO\\search.json.mozlz4", (void 0)))
+1632308130948	Marionette	INFO	Listening on port 56016
+1632308131075	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P52XLW7, line 371: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P52XLW7, line 371: unreachable code after return statement
+JavaScript error: https://script.crazyegg.com/pages/scripts/0047/6058.js, line 1: Error: CE: multiple userscripts installed
+JavaScript error: https://www.motorola.com.br/capa-motorola-edge-20-lite-y-cover-soft/p line 421 > injectedScript, line 1: TypeError: google_tag_manager['GTM-P52XLW7'].macro(...) is undefined
+JavaScript error: https://script.crazyegg.com/pages/scripts/0047/6058.js, line 1: Error: CE: multiple userscripts installed
+JavaScript error: https://script.crazyegg.com/pages/scripts/0047/6058.js, line 1: Error: CE: multiple userscripts installed
+JavaScript error: https://script.crazyegg.com/pages/scripts/0047/6058.js, line 1: Error: CE: multiple userscripts installed
+1632308210517	Marionette	INFO	Stopped listening on port 56016
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Parent 2344, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+ists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Gilson\\AppData\\Local\\Temp\\rust_mozprofilem2EkNN\\search.json.mozlz4", (void 0)))
+1632308210138	Marionette	INFO	Listening on port 59243
+1632308210493	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P52XLW7, line 371: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P52XLW7, line 371: unreachable code after return statement
+JavaScript error: https://script.crazyegg.com/pages/scripts/0047/6058.js, line 1: Error: CE: multiple userscripts installed
+JavaScript error: https://www.motorola.com.br/edge?_q=edge&map=ft line 421 > injectedScript, line 1: TypeError: google_tag_manager['GTM-P52XLW7'].macro(...) is undefined
+JavaScript error: https://script.crazyegg.com/pages/scripts/0047/6058.js, line 1: Error: CE: multiple userscripts installed
+JavaScript error: https://script.crazyegg.com/pages/scripts/0047/6058.js, line 1: Error: CE: multiple userscripts installed
+JavaScript error: https://script.crazyegg.com/pages/scripts/0047/6058.js, line 1: Error: CE: multiple userscripts installed
+1632308294754	Marionette	INFO	Stopped listening on port 59243
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+ozprofileiy06MP"
+1632308297474	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Gilson\\AppData\\Local\\Temp\\rust_mozprofileiy06MP\\search.json.mozlz4", (void 0)))
+1632308303732	Marionette	INFO	Listening on port 59502
+1632308304219	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P52XLW7, line 371: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P52XLW7, line 371: unreachable code after return statement
+JavaScript error: https://script.crazyegg.com/pages/scripts/0047/6058.js, line 1: Error: CE: multiple userscripts installed
+JavaScript error: https://www.motorola.com.br/edge?_q=edge&map=ft line 421 > injectedScript, line 1: TypeError: google_tag_manager['GTM-P52XLW7'].macro(...) is undefined
+JavaScript error: https://script.crazyegg.com/pages/scripts/0047/6058.js, line 1: Error: CE: multiple userscripts installed
+JavaScript error: https://script.crazyegg.com/pages/scripts/0047/6058.js, line 1: Error: CE: multiple userscripts installed
+1632308416071	Marionette	INFO	Stopped listening on port 59502
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Parent 7952, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1632308420157	geckodriver	INFO	Listening on 127.0.0.1:59760
+1632308423189	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Gilson\\AppData\\Local\\Temp\\rust_mozprofilecoYUWG"
+1632308423802	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Gilson\\AppData\\Local\\Temp\\rust_mozprofilecoYUWG\\search.json.mozlz4", (void 0)))
+1632308429642	Marionette	INFO	Listening on port 59768
+1632308429839	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P52XLW7, line 371: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P52XLW7, line 371: unreachable code after return statement
+JavaScript error: https://script.crazyegg.com/pages/scripts/0047/6058.js, line 1: Error: CE: multiple userscripts installed
+JavaScript error: https://www.motorola.com.br/edge?_q=edge&map=ft line 421 > injectedScript, line 1: TypeError: google_tag_manager['GTM-P52XLW7'].macro(...) is undefined
+JavaScript error: https://script.crazyegg.com/pages/scripts/0047/6058.js, line 1: Error: CE: multiple userscripts installed
+JavaScript error: https://script.crazyegg.com/pages/scripts/0047/6058.js, line 1: Error: CE: multiple userscripts installed
+JavaScript error: https://script.crazyegg.com/pages/scripts/0047/6058.js, line 1: Error: CE: multiple userscripts installed
+JavaScript warning: https://pagead2.googlesyndication.com/bg/5V1U01Sps0PwvoO-yQE-m69bWoVbvXGoGVlxKCbJqIA.js line 1 > eval line 232 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1632308861511	Marionette	INFO	Stopped listening on port 59768
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 7308, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1632308884199	geckodriver	INFO	Listening on 127.0.0.1:52785
+1632308887239	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Gilson\\AppData\\Local\\Temp\\rust_mozprofilevYlfEo"
+1632308888547	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Gilson\\AppData\\Local\\Temp\\rust_mozprofilevYlfEo\\search.json.mozlz4", (void 0)))
+1632308894553	Marionette	INFO	Listening on port 52793
+1632308895681	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P52XLW7, line 371: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P52XLW7, line 371: unreachable code after return statement
+JavaScript error: https://script.crazyegg.com/pages/scripts/0047/6058.js, line 1: Error: CE: multiple userscripts installed
+JavaScript error: https://www.motorola.com.br/edge?_q=edge&map=ft line 421 > injectedScript, line 1: TypeError: google_tag_manager['GTM-P52XLW7'].macro(...) is undefined
+JavaScript error: https://script.crazyegg.com/pages/scripts/0047/6058.js, line 1: Error: CE: multiple userscripts installed
+SourceActor threw an exception: [Exception... "Failed to open input source 'javascript:(function(){var d=document;d.createElement("img").src="https://www.facebook.com/tr/?id=234473910218880&ev=ViewContent&cd%5Bcontent_type%5D=product&cd%5Bcontent_ids%5D=%255B%2522229709618736658826%2522%255D&cd%5Bproduct_catalog_id%5D=913088048811881&cd%5Bproduct_category%5D=0&cd%5Bcriteo_audience_3_0%5D=B3&cd%5Bexternal_id%5D=7c95e1f2-666d-42e2-b755-a065d02343c2&cd%5Bapplication_id%5D=423936147658676";setTimeout(function(){d.open();d.write('');d.close();},1000);})();'"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 670"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:670:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:516:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:442:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:406:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2091:35
+addAllSources@resource://devtools/server/actors/thread.js:1446:14
+watch@resource://devtools/server/actors/resources/sources.js:52:17
+watchResources@resource://devtools/server/actors/resources/index.js:242:19
+_watchTargetResources@resource://devtools/server/actors/targets/target-actor-mixin.js:159:24
+addWatcherDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:50:20
+_addWatcherDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:521:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:463:21
+Line: 670, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 670: NS_ERROR_NOT_AVAILABLE: Failed to open input source 'javascript:(function(){var d=document;d.createElement("img").src="https://www.facebook.com/tr/?id=234473910218880&ev=ViewContent&cd%5Bcontent_type%5D=product&cd%5Bcontent_ids%5D=%255B%2522229709618736658826%2522%255D&cd%5Bproduct_catalog_id%5D=913088048811881&cd%5Bproduct_category%5D=0&cd%5Bcriteo_audience_3_0%5D=B3&cd%5Bexternal_id%5D=7c95e1f2-666d-42e2-b755-a065d02343c2&cd%5Bapplication_id%5D=423936147658676";setTimeout(function(){d.open();d.write('');d.close();},1000);})();'
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+1632311249542	Marionette	INFO	Stopped listening on port 52793
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+ozprofileKzVjMS"
+1632311252651	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Gilson\\AppData\\Local\\Temp\\rust_mozprofileKzVjMS\\search.json.mozlz4", (void 0)))
+1632311259475	Marionette	INFO	Listening on port 60939
+1632311259722	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P52XLW7, line 371: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P52XLW7, line 371: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: undefined
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+1632311711883	Marionette	INFO	Stopped listening on port 60939
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1632311713944	geckodriver	INFO	Listening on 127.0.0.1:55870
+1632311716954	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Gilson\\AppData\\Local\\Temp\\rust_mozprofileM5CVXh"
+1632311718467	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Gilson\\AppData\\Local\\Temp\\rust_mozprofileM5CVXh\\search.json.mozlz4", (void 0)))
+1632311723675	Marionette	INFO	Listening on port 55881
+1632311724099	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P52XLW7, line 371: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P52XLW7, line 371: unreachable code after return statement
+JavaScript error: https://script.crazyegg.com/pages/scripts/0047/6058.js, line 1: Error: CE: multiple userscripts installed
+JavaScript error: https://www.motorola.com.br/edge?_q=edge&map=ft line 421 > injectedScript, line 1: TypeError: google_tag_manager['GTM-P52XLW7'].macro(...) is undefined
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P52XLW7, line 371: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P52XLW7, line 371: unreachable code after return statement
+1632311765929	Marionette	INFO	Stopped listening on port 55881
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Parent 7868, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+1632311771643	geckodriver	INFO	Listening on 127.0.0.1:56125
+1632311774686	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Gilson\\AppData\\Local\\Temp\\rust_mozprofileDsiW0d"
+1632311776433	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Gilson\\AppData\\Local\\Temp\\rust_mozprofileDsiW0d\\search.json.mozlz4", (void 0)))
+1632311782935	Marionette	INFO	Listening on port 56133
+1632311782972	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P52XLW7, line 371: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P52XLW7, line 371: unreachable code after return statement
+JavaScript error: https://script.crazyegg.com/pages/scripts/0047/6058.js, line 1: Error: CE: multiple userscripts installed
+JavaScript error: https://www.motorola.com.br/edge?_q=edge&map=ft line 421 > injectedScript, line 1: TypeError: google_tag_manager['GTM-P52XLW7'].macro(...) is undefined
+1632311905448	Marionette	INFO	Stopped listening on port 56131632311906210	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Gilson\\AppData\\Local\\Temp\\rust_mozprofilet3hJ5V"
+1632311907772	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Gilson\\AppData\\Local\\Temp\\rust_mozprofilet3hJ5V\\search.json.mozlz4", (void 0)))
+1632311913576	Marionette	INFO	Listening on port 58727
+1632311914276	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P52XLW7, line 371: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P52XLW7, line 371: unreachable code after return statement
+JavaScript error: https://script.crazyegg.com/pages/scripts/0047/6058.js, line 1: Error: CE: multiple userscripts installed
+JavaScript error: https://www.motorola.com.br/edge?_q=edge&map=ft line 421 > injectedScript, line 1: TypeError: google_tag_manager['GTM-P52XLW7'].macro(...) is undefined
+JavaScript error: https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-core.prod.js, line 1: Error: The open request was blocked and timed out
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P52XLW7, line 371: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P52XLW7, line 371: unreachable code after return statement
+JavaScript error: https://www.motorola.com.br/edge?_q=edge&map=ft line 421 > injectedScript, line 1: TypeError: google_tag_manager['GTM-P52XLW7'].macro(...) is undefined
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P52XLW7, line 371: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P52XLW7, line 371: unreachable code after return statement
+JavaScript error: https://www.motorola.com.br/edge?_q=edge&map=ft line 421 > injectedScript, line 1: TypeError: google_tag_manager['GTM-P52XLW7'].macro(...) is undefined
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P52XLW7, line 371: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P52XLW7, line 371: unreachable code after return statement
+JavaScript error: https://www.motorola.com.br/edge?_q=edge&map=ft line 421 > injectedScript, line 1: TypeError: google_tag_manager['GTM-P52XLW7'].macro(...) is undefined
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P52XLW7, line 371: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P52XLW7, line 371: unreachable code after return statement
+JavaScript error: https://www.motorola.com.br/edge?_q=edge&map=ft line 421 > injectedScript, line 1: TypeError: google_tag_manager['GTM-P52XLW7'].macro(...) is undefined
+1632311988634	Marionette	INFO	Stopped listening on port 58727
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590006,name=PHttpChannel::Msg_DocumentChannelCleanup) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1632314677799	geckodriver	INFO	Listening on 127.0.0.1:61255
+1632314680809	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Gilson\\AppData\\Local\\Temp\\rust_mozprofileJtVuh3"
+1632314682253	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Gilson\\AppData\\Local\\Temp\\rust_mozprofileJtVuh3\\search.json.mozlz4", (void 0)))
+1632314688043	Marionette	INFO	Listening on port 61266
+1632314688811	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P52XLW7, line 371: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P52XLW7, line 371: unreachable code after return statement
+JavaScript error: https://script.crazyegg.com/pages/scripts/0047/6058.js, line 1: Error: CE: multiple userscripts installed
+JavaScript error: https://www.motorola.com.br/edge?_q=edge&map=ft line 421 > injectedScript, line 1: TypeError: google_tag_manager['GTM-P52XLW7'].macro(...) is undefined
+JavaScript error: https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-core.prod.js, line 1: Error: The open request was blocked and timed out
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P52XLW7, line 371: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P52XLW7, line 371: unreachable code after return statement
+JavaScript error: https://www.motorola.com.br/edge?_q=edge&map=ft line 421 > injectedScript, line 1: TypeError: google_tag_manager['GTM-P52XLW7'].macro(...) is undefined
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P52XLW7, line 371: unreachable code after return statement
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P52XLW7, line 371: unreachable code after return statement
+JavaScript error: https://www.motorola.com.br/edge?_q=edge&map=ft line 421 > injectedScript, line 1: TypeError: google_tag_manager['GTM-P52XLW7'].macro(...) is undefined
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P52XLW7, line 371: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P52XLW7, line 371: unreachable code after return statement
+JavaScript error: https://www.motorola.com.br/edge?_q=edge&map=ft line 421 > injectedScript, line 1: TypeError: google_tag_manager['GTM-P52XLW7'].macro(...) is undefined
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P52XLW7, line 371: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P52XLW7, line 371: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P52XLW7, line 371: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P52XLW7, line 371: unreachable code after return statement
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: https://script.crazyegg.com/pages/scripts/0047/6058.js, line 1: Error: CE: multiple userscripts installed
+JavaScript error: https://script.crazyegg.com/pages/scripts/0047/6058.js, line 1: Error: CE: multiple userscripts installed
+JavaScript error: https://brmotorolanew.vtexassets.com/_v/public/assets/v1/published/brmotorolanew.store@1.0.9/public/react/OmniInstallments.min.js, line 1: TypeError: f[0] is undefined
+JavaScript error: https://brmotorolanew.vtexassets.com/_v/public/assets/v1/published/brmotorolanew.store@1.0.9/public/react/OmniInstallments.min.js, line 1: TypeError: f[0] is undefined
+JavaScript error: https://brmotorolanew.vtexassets.com/_v/public/assets/v1/published/brmotorolanew.store@1.0.9/public/react/OmniInstallments.min.js, line 1: TypeError: f[0] is undefined
+JavaScript error: https://brmotorolanew.vtexassets.com/_v/public/assets/v1/published/brmotorolanew.store@1.0.9/public/react/OmniInstallments.min.js, line 1: TypeError: f[0] is undefined
+JavaScript error: https://brmotorolanew.vtexassets.com/_v/public/assets/v1/published/brmotorolanew.store@1.0.9/public/react/OmniInstallments.min.js, line 1: TypeError: f[0] is undefined
+JavaScript error: https://brmotorolanew.vtexassets.com/_v/public/assets/v1/published/brmotorolanew.store@1.0.9/public/react/OmniInstallments.min.js, line 1: TypeError: f[0] is undefined
+JavaScript error: https://brmotorolanew.vtexassets.com/_v/public/assets/v1/published/brmotorolanew.store@1.0.9/public/react/OmniInstallments.min.js, line 1: TypeError: f[0] is undefined
+JavaScript error: https://brmotorolanew.vtexassets.com/_v/public/assets/v1/published/brmotorolanew.store@1.0.9/public/react/OmniInstallments.min.js, line 1: TypeError: f[0] is undefined
+JavaScript error: https://script.crazyegg.com/pages/scripts/0047/6058.js, line 1: Error: CE: multiple userscripts installed
+JavaScript error: https://script.crazyegg.com/pages/scripts/0047/6058.js, line 1: Error: CE: multiple userscripts installed
+JavaScript error: https://script.crazyegg.com/pages/scripts/0047/6058.js, line 1: Error: CE: multiple userscripts installed
+JavaScript error: https://script.crazyegg.com/pages/scripts/0047/6058.js, line 1: Error: CE: multiple userscripts installed
+JavaScript error: https://script.crazyegg.com/pages/scripts/0047/6058.js, line 1: Error: CE: multiple userscripts installed
+JavaScript warning: https://brmotorolanew.vtexassets.com/_v/public/assets/v1/published/bundle/public/react/asset.min.js?v=1&files=brmotorolanew.store@1.0.10,6,14,Header,MotoStoreWrapperCustom,18,MotoRegModal,HTMLEditor,11,ReleaseHeader,EcomCardEdgeFamily,13,FullBleedImage,0,RotatingCameraOverview,ZoomImages,7,ModernizedCameraGallery,VerticalDisplay,10,MotoSpeedPerformance,EdgeBattery&workspace=master, line 5: unreachable code after return statement
+JavaScript warning: https://brmotorolanew.vtexassets.com/_v/public/assets/v1/published/bundle/public/react/asset.min.js?v=1&files=brmotorolanew.store@1.0.10,6,14,Header,MotoStoreWrapperCustom,18,MotoRegModal,HTMLEditor,11,ReleaseHeader,EcomCardEdgeFamily,13,FullBleedImage,0,RotatingCameraOverview,ZoomImages,7,ModernizedCameraGallery,VerticalDisplay,10,MotoSpeedPerformance,EdgeBattery&workspace=master, line 5: unreachable code after return statement
+JavaScript warning: https://brmotorolanew.vtexassets.com/_v/public/assets/v1/published/bundle/public/react/asset.min.js?v=1&files=brmotorolanew.store@1.0.10,6,14,Header,MotoStoreWrapperCustom,18,MotoRegModal,HTMLEditor,11,ReleaseHeader,EcomCardEdgeFamily,13,FullBleedImage,0,RotatingCameraOverview,ZoomImages,7,ModernizedCameraGallery,VerticalDisplay,10,MotoSpeedPerformance,EdgeBattery&workspace=master, line 5: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P52XLW7, line 371: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P52XLW7, line 371: unreachable code after return statement
+JavaScript error: https://www.motorola.com.br/smartphones/familia-motorola-edge line 421 > injectedScript, line 1: ReferenceError: $ is not defined
+Unable to read VR Path Registry from C:\Users\Gilson\AppData\Local\openvr\openvrpaths.vrpath
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child 5584, MediaDecoderStateMachine #1] WARNING: 2795c80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+[Child 5584, MediaDecoderStateMachine #1] WARNING: 19f2a740 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 5584, MediaDecoderStateMachine #1] WARNING: fd7b740 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 5584, MediaDecoderStateMachine #1] WARNING: 14c734a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 5584, MediaDecoderStateMachine #1] WARNING: 11247ba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 5584, MediaDecoderStateMachine #1] WARNING: 11247740 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 5584, MediaDecoderStateMachine #1] WARNING: 27b22e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 5584, MediaDecoderStateMachine #1] WARNING: 27049e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 5584, MediaDecoderStateMachine #1] WARNING: 14ce5040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 5584, MediaDecoderStateMachine #1] WARNING: 2704820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 5584, MediaDecoderStateMachine #1] WARNING: 2704820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 5584, MediaDecoderStateMachine #1] WARNING: 27044a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 5584, MediaDecoderStateMachine #1] WARNING: 2704820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 5584, MediaDecoderStateMachine #1] WARNING: 27044a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+1632315096684	Marionette	INFO	Stopped listening on port 61266
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1632315098717	geckodriver	INFO	Listening on 127.0.0.1:51224
+1632315101595	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Gilson\\AppData\\Local\\Temp\\rust_mozprofilezoHT5T"
+1632315103422	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Gilson\\AppData\\Local\\Temp\\rust_mozprofilezoHT5T\\search.json.mozlz4", (void 0)))
+1632315108404	Marionette	INFO	Listening on port 51235
+1632315108822	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P52XLW7, line 371: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P52XLW7, line 371: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P52XLW7, line 371: unreachable code after return statement
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P52XLW7, line 371: unreachable code after return statement
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.motorola.com.br/moto%20g9%20plus?_q=moto%20g9%20plus&map=ft line 421 > injectedScript, line 1: TypeError: google_tag_manager['GTM-P52XLW7'].macro(...) is undefined
+1632315236020	Marionette	INFO	Stopped listening on port 51235
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1632315243397	geckodriver	INFO	Listening on 127.0.0.1:57037
+1632315246412	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Gilson\\AppData\\Local\\Temp\\rust_mozprofileMxNuqZ"
+1632315247648	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Gilson\\AppData\\Local\\Temp\\rust_mozprofileMxNuqZ\\search.json.mozlz4", (void 0)))
+1632315252502	Marionette	INFO	Listening on port 57045
+1632315253041	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P52XLW7, line 371: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P52XLW7, line 371: unreachable code after return statement
+JavaScript error: https://script.crazyegg.com/pages/scripts/0047/6058.js, line 1: Error: CE: multiple userscripts installed
+JavaScript error: https://www.motorola.com.br/moto%20g9%20plus?_q=moto%20g9%20plus&map=ft line 421 > injectedScript, line 1: TypeError: google_tag_manager['GTM-P52XLW7'].macro(...) is undefined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P52XLW7, line 371: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P52XLW7, line 371: unreachable code after return statement
+JavaScript error: https://brmotorolanew.vtexassets.com/_v/public/assets/v1/published/bundle/public/react/asset.min.js?v=1&files=vtex.order-items@0.13.1,0,OrderItems&files=brmotorolanew.store@1.0.9,common,4,6,14,Header,HeaderProps,11,16,ProductPage,CollaboratorModal,HeaderContext,17,EndOfLife,ProductQRCode,LogoProductPdp,SkuSelectorDesktop,OmniListPrice,OmniInstallments,Selectg100&workspace=master, line 20: TypeError: f[0] is undefined
+JavaScript error: https://brmotorolanew.vtexassets.com/_v/public/assets/v1/published/bundle/public/react/asset.min.js?v=1&files=vtex.order-items@0.13.1,0,OrderItems&files=brmotorolanew.store@1.0.9,common,4,6,14,Header,HeaderProps,11,16,ProductPage,CollaboratorModal,HeaderContext,17,EndOfLife,ProductQRCode,LogoProductPdp,SkuSelectorDesktop,OmniListPrice,OmniInstallments,Selectg100&workspace=master, line 20: TypeError: f[0] is undefined
+JavaScript error: https://brmotorolanew.vtexassets.com/_v/public/assets/v1/published/bundle/public/react/asset.min.js?v=1&files=vtex.order-items@0.13.1,0,OrderItems&files=brmotorolanew.store@1.0.9,common,4,6,14,Header,HeaderProps,11,16,ProductPage,CollaboratorModal,HeaderContext,17,EndOfLife,ProductQRCode,LogoProductPdp,SkuSelectorDesktop,OmniListPrice,OmniInstallments,Selectg100&workspace=master, line 20: TypeError: f[0] is undefined
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://brmotorolanew.vtexassets.com/_v/public/assets/v1/bundle/css/asset.min.css?v=3&files=theme,brmotorolanew.store@1.0.10$style.common,brmotorolanew.store@1.0.10$style.small,brmotorolanew.store@1.0.10$style.notsmall,brmotorolanew.store@1.0.10$style.large,brmotorolanew.store@1.0.10$style.xlarge&files=fonts,989db2448f309bfdd99b513f37c84b8f5794d2b5&files=npm,animate.css@3.7.0/animate.min.css&files=react~vtex.render-runtime@8.131.1,common&files=react~brmotorolanew.store@1.0.10,14,Header,16,ProductPage,EndOfLife,ProductQRCode,LogoProductPdp,SkuSelectorDesktop,Selectg100,OmniSellingPrice,ProductName,SkuSelector,ProductInstallments&files=react~vtex.styleguide@9.145.0,0,Spinner,1,15,Tooltip&files=react~vtex.store-components@3.152.0,Container,4,SearchBar,2,ProductImages,SKUSelector,DiscountBadge&files=react~vtex.flex-layout@0.18.0,0&files=react~vtex.login@2.45.15,1&files=react~vtex.admin-pages@4.44.7,HighlightOverlay&files=react~vtex.search@2.8.3,Autocomplete&files=react~vtex.product-identifier@0.2.1,ProductIdentifierProduct&files=react~vtex.rich-text@0.14.0,index&files=react~vtex.modal-layout@0.10.0,0,ModalHeader&files=react~vtex.product-summary@2.76.0,ProductSummaryImage&files=react~vtex.availability-notify@0.1.2,AvailabilityNotifier&files=overrides,vtex.product-list@0.31.0$overrides,vtex.minicart@2.61.1$overrides,brmotorolanew.store@1.0.10$overrides,brmotorolanew.store@1.0.10$fonts&workspace=master without a browsingContextID set
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1632315548450	Marionette	INFO	Stopped listening on port 57045
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1632315552682	geckodriver	INFO	Listening on 127.0.0.1:51024
+1632315555729	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Gilson\\AppData\\Local\\Temp\\rust_mozprofilesewm4d"
+1632315556861	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Gilson\\AppData\\Local\\Temp\\rust_mozprofilesewm4d\\search.json.mozlz4", (void 0)))
+1632315562055	Marionette	INFO	Listening on port 51032
+1632315562597	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P52XLW7, line 371: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P52XLW7, line 371: unreachable code after return statement
+JavaScript error: https://script.crazyegg.com/pages/scripts/0047/6058.js, line 1: Error: CE: multiple userscripts installed
+JavaScript error: https://www.motorola.com.br/moto%20g9%20plus?_q=moto%20g9%20plus&map=ft line 421 > injectedScript, line 1: TypeError: google_tag_manager['GTM-P52XLW7'].macro(...) is undefined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P52XLW7, line 371: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P52XLW7, line 371: unreachable code after return statement
+JavaScript error: https://brmotorolanew.vtexassets.com/_v/public/assets/v1/published/bundle/public/react/asset.min.js?v=1&files=vtex.order-items@0.13.1,0,OrderItems&files=brmotorolanew.store@1.0.10,common,4,6,14,Header,HeaderProps,11,16,ProductPage,CollaboratorModal,HeaderContext,17,EndOfLife,ProductQRCode,LogoProductPdp,SkuSelectorDesktop,OmniListPrice,OmniInstallments,Selectg100&workspace=master, line 20: TypeError: f[0] is undefined
+JavaScript error: https://brmotorolanew.vtexassets.com/_v/public/assets/v1/published/bundle/public/react/asset.min.js?v=1&files=vtex.order-items@0.13.1,0,OrderItems&files=brmotorolanew.store@1.0.10,common,4,6,14,Header,HeaderProps,11,16,ProductPage,CollaboratorModal,HeaderContext,17,EndOfLife,ProductQRCode,LogoProductPdp,SkuSelectorDesktop,OmniListPrice,OmniInstallments,Selectg100&workspace=master, line 20: TypeError: f[0] is undefined
+JavaScript error: https://brmotorolanew.vtexassets.com/_v/public/assets/v1/published/bundle/public/react/asset.min.js?v=1&files=vtex.order-items@0.13.1,0,OrderItems&files=brmotorolanew.store@1.0.10,common,4,6,14,Header,HeaderProps,11,16,ProductPage,CollaboratorModal,HeaderContext,17,EndOfLife,ProductQRCode,LogoProductPdp,SkuSelectorDesktop,OmniListPrice,OmniInstallments,Selectg100&workspace=master, line 20: TypeError: f[0] is undefined
+SourceActor threw an exception: [Exception... "Failed to open input source 'javascript:(function(){var d=document;d.createElement("img").src="https://www.facebook.com/tr/?id=234473910218880&ev=ViewContent&cd%5Bcontent_type%5D=product&cd%5Bcontent_ids%5D=%255B%2522-888247380088966139%2522%255D&cd%5Bproduct_catalog_id%5D=913088048811881&cd%5Bproduct_category%5D=0&cd%5Bcriteo_audience_3_0%5D=A3&cd%5Bexternal_id%5D=f30f4d3b-37e1-48c6-8fe6-d8eb67eaef1a&cd%5Bapplication_id%5D=423936147658676";setTimeout(function(){d.open();d.write('');d.close();},1000);})();'"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 670"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:670:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:516:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:442:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:406:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2091:35
+addAllSources@resource://devtools/server/actors/thread.js:1446:14
+watch@resource://devtools/server/actors/resources/sources.js:52:17
+watchResources@resource://devtools/server/actors/resources/index.js:242:19
+_watchTargetResources@resource://devtools/server/actors/targets/target-actor-mixin.js:159:24
+addWatcherDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:50:20
+_addWatcherDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:521:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:463:21
+Line: 670, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 670: NS_ERROR_NOT_AVAILABLE: Failed to open input source 'javascript:(function(){var d=document;d.createElement("img").src="https://www.facebook.com/tr/?id=234473910218880&ev=ViewContent&cd%5Bcontent_type%5D=product&cd%5Bcontent_ids%5D=%255B%2522-888247380088966139%2522%255D&cd%5Bproduct_catalog_id%5D=913088048811881&cd%5Bproduct_category%5D=0&cd%5Bcriteo_audience_3_0%5D=A3&cd%5Bexternal_id%5D=f30f4d3b-37e1-48c6-8fe6-d8eb67eaef1a&cd%5Bapplication_id%5D=423936147658676";setTimeout(function(){d.open();d.write('');d.close();},1000);})();'
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+1632315692128	Marionette	INFO	Stopped listening on port 51032
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Parent 8000, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1632315696119	geckodriver	INFO	Listening on 127.0.0.1:58147
+1632315699145	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Gilson\\AppData\\Local\\Temp\\rust_mozprofileNkLlnN"
+1632315699771	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Gilson\\AppData\\Local\\Temp\\rust_mozprofileNkLlnN\\search.json.mozlz4", (void 0)))
+1632315705089	Marionette	INFO	Listening on port 58155
+1632315706028	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P52XLW7, line 371: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P52XLW7, line 371: unreachable code after return statement
+JavaScript error: https://script.crazyegg.com/pages/scripts/0047/6058.js, line 1: Error: CE: multiple userscripts installed
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P52XLW7, line 371: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P52XLW7, line 371: unreachable code after return statement
+JavaScript error: https://brmotorolanew.vtexassets.com/_v/public/assets/v1/published/bundle/public/react/asset.min.js?v=1&files=vtex.order-items@0.13.1,0,OrderItems&files=brmotorolanew.store@1.0.10,common,4,6,14,Header,HeaderProps,11,16,ProductPage,CollaboratorModal,HeaderContext,17,EndOfLife,ProductQRCode,LogoProductPdp,SkuSelectorDesktop,OmniListPrice,OmniInstallments,Selectg100&workspace=master, line 20: TypeError: f[0] is undefined
+JavaScript error: https://brmotorolanew.vtexassets.com/_v/public/assets/v1/published/bundle/public/react/asset.min.js?v=1&files=vtex.order-items@0.13.1,0,OrderItems&files=brmotorolanew.store@1.0.10,common,4,6,14,Header,HeaderProps,11,16,ProductPage,CollaboratorModal,HeaderContext,17,EndOfLife,ProductQRCode,LogoProductPdp,SkuSelectorDesktop,OmniListPrice,OmniInstallments,Selectg100&workspace=master, line 20: TypeError: f[0] is undefined
+JavaScript error: https://brmotorolanew.vtexassets.com/_v/public/assets/v1/published/bundle/public/react/asset.min.js?v=1&files=vtex.order-items@0.13.1,0,OrderItems&files=brmotorolanew.store@1.0.10,common,4,6,14,Header,HeaderProps,11,16,ProductPage,CollaboratorModal,HeaderContext,17,EndOfLife,ProductQRCode,LogoProductPdp,SkuSelectorDesktop,OmniListPrice,OmniInstallments,Selectg100&workspace=master, line 20: TypeError: f[0] is undefined
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+1632315753823	Marionette	INFO	Stopped listening on port 58155
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Parent 7696, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x690023,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+1632315759087	geckodriver	INFO	Listening on 127.0.0.1:54550
+1632315762098	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Gilson\\AppData\\Local\\Temp\\rust_mozprofileWEdFrm"
+1632315762871	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Gilson\\AppData\\Local\\Temp\\rust_mozprofileWEdFrm\\search.json.mozlz4", (void 0)))
+1632315768315	Marionette	INFO	Listening on port 54558
+1632315769296	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P52XLW7, line 371: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P52XLW7, line 371: unreachable code after return statement
+JavaScript error: https://script.crazyegg.com/pages/scripts/0047/6058.js, line 1: Error: CE: multiple userscripts installed
+JavaScript error: https://www.motorola.com.br/moto%20g9%20plus?_q=moto%20g9%20plus&map=ft line 421 > injectedScript, line 1: TypeError: google_tag_manager['GTM-P52XLW7'].macro(...) is undefined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P52XLW7, line 371: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P52XLW7, line 371: unreachable code after return statement
+JavaScript error: https://brmotorolanew.vtexassets.com/_v/public/assets/v1/published/bundle/public/react/asset.min.js?v=1&files=vtex.order-items@0.13.1,0,OrderItems&files=brmotorolanew.store@1.0.10,common,4,6,14,Header,HeaderProps,11,16,ProductPage,CollaboratorModal,HeaderContext,17,EndOfLife,ProductQRCode,LogoProductPdp,SkuSelectorDesktop,OmniListPrice,OmniInstallments,Selectg100&workspace=master, line 20: TypeError: f[0] is undefined
+JavaScript error: https://brmotorolanew.vtexassets.com/_v/public/assets/v1/published/bundle/public/react/asset.min.js?v=1&files=vtex.order-items@0.13.1,0,OrderItems&files=brmotorolanew.store@1.0.10,common,4,6,14,Header,HeaderProps,11,16,ProductPage,CollaboratorModal,HeaderContext,17,EndOfLife,ProductQRCode,LogoProductPdp,SkuSelectorDesktop,OmniListPrice,OmniInstallments,Selectg100&workspace=master, line 20: TypeError: f[0] is undefined
+JavaScript error: https://brmotorolanew.vtexassets.com/_v/public/assets/v1/published/bundle/public/react/asset.min.js?v=1&files=vtex.order-items@0.13.1,0,OrderItems&files=brmotorolanew.store@1.0.10,common,4,6,14,Header,HeaderProps,11,16,ProductPage,CollaboratorModal,HeaderContext,17,EndOfLife,ProductQRCode,LogoProductPdp,SkuSelectorDesktop,OmniListPrice,OmniInstallments,Selectg100&workspace=master, line 20: TypeError: f[0] is undefined
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+console.warn: "Failed to enumerate localStorage for host https://us.creativecdn.com: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate localStorage for host https://us.creativecdn.com: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate localStorage for host https://8128461.fls.doubleclick.net: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate localStorage for host https://adservice.google.com: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate localStorage for host https://us.creativecdn.com: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate localStorage for host https://8128461.fls.doubleclick.net: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate localStorage for host https://adservice.google.com: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate CacheStorage for host https://us.creativecdn.com: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate CacheStorage for host https://8128461.fls.doubleclick.net: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate CacheStorage for host https://adservice.google.com: SecurityError: The operation is insecure."
+1632316008112	Marionette	INFO	Stopped listening on port 54558
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1632316012417	geckodriver	INFO	Listening on 127.0.0.1:62129
+1632316015428	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Gilson\\AppData\\Local\\Temp\\rust_mozprofileqpukYk"
+1632316017052	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Gilson\\AppData\\Local\\Temp\\rust_mozprofileqpukYk\\search.json.mozlz4", (void 0)))
+1632316023319	Marionette	INFO	Listening on port 62137
+1632316023980	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P52XLW7, line 371: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P52XLW7, line 371: unreachable code after return statement
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P52XLW7, line 371: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P52XLW7, line 371: unreachable code after return statement
+JavaScript error: https://brmotorolanew.vtexassets.com/_v/public/assets/v1/published/bundle/public/react/asset.min.js?v=1&files=vtex.order-items@0.13.1,0,OrderItems&files=brmotorolanew.store@1.0.10,common,4,6,14,Header,HeaderProps,11,16,ProductPage,CollaboratorModal,HeaderContext,17,EndOfLife,ProductQRCode,LogoProductPdp,SkuSelectorDesktop,OmniListPrice,OmniInstallments,Selectg100&workspace=master, line 20: TypeError: f[0] is undefined
+JavaScript error: https://brmotorolanew.vtexassets.com/_v/public/assets/v1/published/bundle/public/react/asset.min.js?v=1&files=vtex.order-items@0.13.1,0,OrderItems&files=brmotorolanew.store@1.0.10,common,4,6,14,Header,HeaderProps,11,16,ProductPage,CollaboratorModal,HeaderContext,17,EndOfLife,ProductQRCode,LogoProductPdp,SkuSelectorDesktop,OmniListPrice,OmniInstallments,Selectg100&workspace=master, line 20: TypeError: f[0] is undefined
+JavaScript error: https://brmotorolanew.vtexassets.com/_v/public/assets/v1/published/bundle/public/react/asset.min.js?v=1&files=vtex.order-items@0.13.1,0,OrderItems&files=brmotorolanew.store@1.0.10,common,4,6,14,Header,HeaderProps,11,16,ProductPage,CollaboratorModal,HeaderContext,17,EndOfLife,ProductQRCode,LogoProductPdp,SkuSelectorDesktop,OmniListPrice,OmniInstallments,Selectg100&workspace=master, line 20: TypeError: f[0] is undefined
+1632316228520	Marionette	INFO	Stopped listening on port 62137
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1632316232592	geckodriver	INFO	Listening on 127.0.0.1:55445
+1632316235626	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Gilson\\AppData\\Local\\Temp\\rust_mozprofilet0ilbA"
+1632316236985	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Gilson\\AppData\\Local\\Temp\\rust_mozprofilet0ilbA\\search.json.mozlz4", (void 0)))
+1632316243607	Marionette	INFO	Listening on port 55454
+1632316243938	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P52XLW7, line 371: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P52XLW7, line 371: unreachable code after return statement
+1632316253051	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:238:19
+TimedPromise@chrome://remote/content/marionette/sync.js:223:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-core.prod.js, line 1: Error: The open request was blocked and timed out
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P52XLW7, line 371: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P52XLW7, line 371: unreachable code after return statement
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P52XLW7, line 371: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P52XLW7, line 371: unreachable code after return statement
+JavaScript error: https://brmotorolanew.vtexassets.com/_v/public/assets/v1/published/bundle/public/react/asset.min.js?v=1&files=vtex.order-items@0.13.1,0,OrderItems&files=brmotorolanew.store@1.0.10,common,4,6,14,Header,HeaderProps,11,16,ProductPage,CollaboratorModal,HeaderContext,17,EndOfLife,ProductQRCode,LogoProductPdp,SkuSelectorDesktop,OmniListPrice,OmniInstallments,Selectg100&workspace=master, line 20: TypeError: f[0] is undefined
+JavaScript error: https://brmotorolanew.vtexassets.com/_v/public/assets/v1/published/bundle/public/react/asset.min.js?v=1&files=vtex.order-items@0.13.1,0,OrderItems&files=brmotorolanew.store@1.0.10,common,4,6,14,Header,HeaderProps,11,16,ProductPage,CollaboratorModal,HeaderContext,17,EndOfLife,ProductQRCode,LogoProductPdp,SkuSelectorDesktop,OmniListPrice,OmniInstallments,Selectg100&workspace=master, line 20: TypeError: f[0] is undefined
+JavaScript error: https://brmotorolanew.vtexassets.com/_v/public/assets/v1/published/bundle/public/react/asset.min.js?v=1&files=vtex.order-items@0.13.1,0,OrderItems&files=brmotorolanew.store@1.0.10,common,4,6,14,Header,HeaderProps,11,16,ProductPage,CollaboratorModal,HeaderContext,17,EndOfLife,ProductQRCode,LogoProductPdp,SkuSelectorDesktop,OmniListPrice,OmniInstallments,Selectg100&workspace=master, line 20: TypeError: f[0] is undefined
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+1632316721886	Marionette	INFO	Stopped listening on port 55454
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Parent 9820, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1632316994020	geckodriver	INFO	Listening on 127.0.0.1:54228
+1632316997016	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Gilson\\AppData\\Local\\Temp\\rust_mozprofileOrPs8t"
+1632316998536	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Gilson\\AppData\\Local\\Temp\\rust_mozprofileOrPs8t\\search.json.mozlz4", (void 0)))
+1632317004965	Marionette	INFO	Listening on port 54239
+1632317005461	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P52XLW7, line 371: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P52XLW7, line 371: unreachable code after return statement
+JavaScript error: https://script.crazyegg.com/pages/scripts/0047/6058.js, line 1: Error: CE: multiple userscripts installed
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P52XLW7, line 371: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P52XLW7, line 371: unreachable code after return statement
+JavaScript error: https://brmotorolanew.vtexassets.com/_v/public/assets/v1/published/bundle/public/react/asset.min.js?v=1&files=vtex.order-items@0.13.1,0,OrderItems&files=brmotorolanew.store@1.0.10,common,4,6,14,Header,HeaderProps,11,16,ProductPage,CollaboratorModal,HeaderContext,17,EndOfLife,ProductQRCode,LogoProductPdp,SkuSelectorDesktop,OmniListPrice,OmniInstallments,Selectg100&workspace=master, line 20: TypeError: f[0] is undefined
+JavaScript error: https://brmotorolanew.vtexassets.com/_v/public/assets/v1/published/bundle/public/react/asset.min.js?v=1&files=vtex.order-items@0.13.1,0,OrderItems&files=brmotorolanew.store@1.0.10,common,4,6,14,Header,HeaderProps,11,16,ProductPage,CollaboratorModal,HeaderContext,17,EndOfLife,ProductQRCode,LogoProductPdp,SkuSelectorDesktop,OmniListPrice,OmniInstallments,Selectg100&workspace=master, line 20: TypeError: f[0] is undefined
+JavaScript error: https://brmotorolanew.vtexassets.com/_v/public/assets/v1/published/bundle/public/react/asset.min.js?v=1&files=vtex.order-items@0.13.1,0,OrderItems&files=brmotorolanew.store@1.0.10,common,4,6,14,Header,HeaderProps,11,16,ProductPage,CollaboratorModal,HeaderContext,17,EndOfLife,ProductQRCode,LogoProductPdp,SkuSelectorDesktop,OmniListPrice,OmniInstallments,Selectg100&workspace=master, line 20: TypeError: f[0] is undefined
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1631: Error: permitUnload is already running for this tab.
+console.error: (new TypeError("watcher.browserElement.browsingContext is null", "resource://devtools/server/actors/watcher/target-helpers/frame-helper.js", 162))
+1632323414194	Marionette	INFO	Stopped listening on port 54239
+JavaScript error: chrome://browser/content/browser.js, line 8036: uncaught exception: undefined
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 2073: TypeError: subject.QueryInterface is not a function
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 8252, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 452))
+ined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P52XLW7, line 371: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P52XLW7, line 371: unreachable code after return statement
+JavaScript error: https://brmotorolanew.vtexassets.com/_v/public/assets/v1/published/bundle/public/react/asset.min.js?v=1&files=vtex.order-items@0.13.1,0,OrderItems&files=brmotorolanew.store@1.0.10,common,4,6,14,Header,HeaderProps,11,16,ProductPage,CollaboratorModal,HeaderContext,17,EndOfLife,ProductQRCode,LogoProductPdp,SkuSelectorDesktop,OmniListPrice,OmniInstallments,Selectg100&workspace=master, line 20: TypeError: f[0] is undefined
+JavaScript error: https://brmotorolanew.vtexassets.com/_v/public/assets/v1/published/bundle/public/react/asset.min.js?v=1&files=vtex.order-items@0.13.1,0,OrderItems&files=brmotorolanew.store@1.0.10,common,4,6,14,Header,HeaderProps,11,16,ProductPage,CollaboratorModal,HeaderContext,17,EndOfLife,ProductQRCode,LogoProductPdp,SkuSelectorDesktop,OmniListPrice,OmniInstallments,Selectg100&workspace=master, line 20: TypeError: f[0] is undefined
+JavaScript error: https://brmotorolanew.vtexassets.com/_v/public/assets/v1/published/bundle/public/react/asset.min.js?v=1&files=vtex.order-items@0.13.1,0,OrderItems&files=brmotorolanew.store@1.0.10,common,4,6,14,Header,HeaderProps,11,16,ProductPage,CollaboratorModal,HeaderContext,17,EndOfLife,ProductQRCode,LogoProductPdp,SkuSelectorDesktop,OmniListPrice,OmniInstallments,Selectg100&workspace=master, line 20: TypeError: f[0] is undefined
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1632323547653	Marionette	INFO	Stopped listening on port 65405
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Parent 8880, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
