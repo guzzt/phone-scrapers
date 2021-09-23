@@ -12,7 +12,10 @@ from os.path import join
 
 class SamsungDownloader(object):
     def __init__(self):
-        self.__url   = 'https://www.motorola.com.br'
+        self.__url   = 'https://www.samsung.com/br/search/?searchvalue='
         self._driver = Firefox(executable_path=GeckoDriverManager().install())
-        self._driver.get(self.__url)
         self._blacklist = ['capa','película',]
+
+    def search(self,keyword):
+        self._driver.get(self.__url+keyword)
+    
